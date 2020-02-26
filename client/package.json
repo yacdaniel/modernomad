@@ -41,7 +41,7 @@
     "qs": "^6.7.0",
     "react": "^15.3.2",
     "react-addons-css-transition-group": "^15.3.2",
-    "react-apollo": "^0.5.10",
+    "react-apollo": "^0.13.3",
     "react-bootstrap": "^0.30.5",
     "react-datepicker": "^0.30.0",
     "react-dom": "^15.3.2",
